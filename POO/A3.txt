@@ -1,0 +1,3 @@
+Haría que la clase `Vehiculo` sea más genérica, con atributos y métodos que sean comunes
+entre todos los tipos de vehículos, y agregaría subclases como, por ejemplo, `Motos`,
+`Camionetas`, que tengan sus propios atributos y métodos específicos.
